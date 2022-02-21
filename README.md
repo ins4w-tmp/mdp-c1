@@ -1,0 +1,1 @@
+create and activate virtual enviroment after cloning
